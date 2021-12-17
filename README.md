@@ -5,6 +5,6 @@ Identifies breed of dog using CNN
  
  For the sake of a more efficient model, we reduced the total number of unique breeds from 120 to 60 and took only 5 unique breeds (classes) into consideration for training the CNN Model.
  
- *building the model using ResNet50V2.
+ *building the model using ResNet50V2.*
  
  
